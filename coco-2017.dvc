@@ -1,9 +1,9 @@
-md5: 4e63cea4103536a1a1f7fbc20f834a36
+md5: 0b4fa55608133fc7e3a53e5865f304cb
 frozen: true
 deps:
-- md5: 372de0465e2371ccb18d177b4184119b.dir
-  size: 1007499091
-  nfiles: 1159
+- md5: f645bca9060bec30d33e26edda60067e.dir
+  size: 1233852876
+  nfiles: 2659
   hash: md5
   path: /home/ashwin/workdir/datasets/coco-2017
 outs:
