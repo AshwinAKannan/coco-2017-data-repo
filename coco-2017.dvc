@@ -8,4 +8,4 @@ deps:
   path: /home/ashwin/workdir/datasets/coco-2017
 outs:
 - hash: md5
-  path: coco-2017
+  path: /storage/datastes/coco-2017
